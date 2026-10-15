@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Electronique et Systèmes — Espace Étudiant</title>
+<meta name="description" content="Cours, TDs, TPs et emplois du temps — Filière Physique, parcours Électronique et Systèmes (FSA Agadir).">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="#/">
+    <span class="brand-mark">ES</span>
+    <span class="brand-text"><strong>Électronique &amp; Systèmes</strong><small>Espace étudiant — FSA Agadir</small></span>
+  </a>
+  <div class="topbar-right">
+    <a class="navlink" href="#/">Accueil</a>
+    <a class="navlink" href="#/ai">🤖 Assistant IA</a>
+    <a class="navlink" href="#/done">✓ Travail finis <span id="doneCount" class="pill">0</span></a>
+    <button id="themeBtn" title="Mode clair / sombre" aria-label="Changer de thème">◐</button>
+  </div>
+</header>
+<nav id="crumbs" class="crumbs"></nav>
+<main id="view"></main>
+<footer class="footer">
+  <span>Données locales — Cours · TDs · TPs · Emplois du temps</span>
+  <span id="statFoot"></span>
+</footer>
+<script src="data/files.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

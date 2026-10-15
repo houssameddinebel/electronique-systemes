@@ -1,0 +1,10 @@
+Dossiers Drive complementaires (S5 Electronique et Systemes) - liens a ouvrir manuellement
+Existing files were preserved; these folders contain resumes, python files, TP dossiers, etc.
+
+/p/s5/calcsci/cours/fichiers python -> https://drive.google.com/drive/folders/16Bn2rDo1didSDYMF-fPq6Q9q5FQ_tCar
+/p/s5/calcsci/cours/résumés -> https://drive.google.com/drive/folders/1EIK4LiS6aZABC5Xf6qLZUOUf8QHNNPhZ?usp=drive_link
+/p/s5/calcsci/tps/dossier des tps -> https://drive.google.com/drive/folders/1ajM_1ix9cfr1aANyJckjEmWwyf1eVT7p?usp=drive_link
+/p/s5/calcsci/tps/tp 1 -> https://drive.google.com/drive/folders/1qsdfqJ60G0A2Xz_-LIjucV5Dxw7Z4nd3?usp=drive_link
+/p/s5/calcsci/tps/tp 2 -> https://drive.google.com/drive/folders/10X96JfmqiXVkD5rz1YbLrjGpNItsfrSS?usp=drive_link
+/p/s5/calcsci/tps/tp 3 -> https://drive.google.com/drive/folders/1_R-yVJZKyJD9qiGpcN6lZGmgj34fVtxO?usp=drive_link
+/p/s5/es/elnana2/tds/td1 exercice supplémentaire des filtres actifs -> https://drive.google.com/drive/folders/1EbGlIPWTnV_gsbtqVrpkIjlXsWSo9Cwt?usp=sharing

@@ -1,0 +1,3 @@
+# Secrets backend — ne jamais commiter ni partager
+backend/.env
+website/data/ai-config.js

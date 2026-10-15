@@ -1,0 +1,88 @@
+EMPTY:
+S1/Analyse/TDs/TD1 - Corrigé.pdf
+S1/Analyse/TDs/TD1 - Énoncé.pdf
+S1/Analyse/TDs/TD2 - Énoncé.pdf
+S1/Analyse/TDs/TD3 - Énoncé.pdf
+S4/Analyse_numerique/TDs/td2 - énoncé.pdf
+S4/Cristallographie/TDs/tds corrigés (ancien).pdf
+S4/Electronique_analogique_1/TDs/td4 - corrigé.pdf
+S4/Electronique_analogique_1/TPs/support des tps.pdf
+S4/Electronique_numerique_1/TPs/support des tps.pdf
+S4/Mecanique_quantique_1/TDs/tds (2024 - 2025) (incomplet).pdf
+S4/Optique_ondulatoire/Cours/cours.pdf
+S5/Calcul_scientifique/Cours/Chapt 1.pdf
+S5/Calcul_scientifique/Cours/Chapt 2.pdf
+S5/Calcul_scientifique/Cours/Chapt 3.pdf
+S5/Calcul_scientifique/Cours/Chapt 4.pdf
+S5/Calcul_scientifique/TDs/TD1 - Énoncé.pdf
+S5/Calcul_scientifique/TPs/Révisions des TPs.pdf
+S5/Electronique_analogique_2/Cours/Chapt 3 - Les oscillateurs sinusoïdaux.pdf
+S5/Electronique_analogique_2/Cours/Chapt 4.pdf
+S5/Electronique_analogique_2/TDs/TD1 - Corrigé.pdf
+S5/Electronique_analogique_2/TDs/TD2 - Corrigé.pdf
+S5/Electronique_analogique_2/TDs/TD2 - Énoncé.pdf
+S5/Electronique_analogique_2/TDs/TD3 - Corrigé.pdf
+S5/Electronique_analogique_2/TDs/TD3 - Énoncé.pdf
+S5/Electronique_analogique_2/TPs/TP1 - Corrigé.pdf
+S5/Electronique_analogique_2/TPs/TP2 - Corrigé.pdf
+S5/Electronique_analogique_2/TPs/TP3 - Corrige.pdf
+S5/Electronique_analogique_2/TPs/tp4 - corrigé.pdf
+S5/Electronique_numerique_2/Cours/cour/cour Electronique Num Rique 2 PDF Filename UTF 8 Electronique Numerique 2.pdf
+S5/Electronique_numerique_2/TDs/TD1 - Corrigé.pdf
+S5/Electronique_numerique_2/TDs/TD1 - Énoncé.pdf
+S5/Electronique_numerique_2/TDs/TD2 - Corrigé.pdf
+S5/Electronique_numerique_2/TDs/TD2 - Énoncé.pdf
+S5/Electronique_numerique_2/TDs/TD3 - Corrigé.pdf
+S5/Electronique_numerique_2/TDs/TD3 - Énoncé.pdf
+S5/Electronique_numerique_2/TDs/TD4 - Corrigé.pdf
+S5/Electronique_numerique_2/TDs/TD4 - Énoncé.pdf
+S5/Electronique_numerique_2/TPs/TP1 - Corrigé.pdf
+S5/Electrotechnique_electronique_de_puissance/Cours/Chapitre1_Résumé.pdf
+S5/Electrotechnique_electronique_de_puissance/Cours/Résumé CircElc.pdf
+S5/Electrotechnique_electronique_de_puissance/TDs/TD1 - Corrigé.pdf
+S5/Electrotechnique_electronique_de_puissance/TDs/TD1 - Énoncé.pdf
+S5/Electrotechnique_electronique_de_puissance/TDs/TD2 - Corrigé.pdf
+S5/Electrotechnique_electronique_de_puissance/TDs/TD2 - Énoncé.pdf
+S5/Electrotechnique_electronique_de_puissance/TDs/TD3 - Corrigé.pdf
+S5/Electrotechnique_electronique_de_puissance/TDs/TD3 - Énoncé.pdf
+S5/Electrotechnique_electronique_de_puissance/TDs/TD5 - Énoncé.pdf
+S5/Electrotechnique_electronique_de_puissance/TPs/TP1 - Corrigé.pdf
+S5/Electrotechnique_electronique_de_puissance/TPs/TP2 - Corrigé.pdf
+S5/Langues_etrangeres_3/TDs/LngEtr3 - Week 1.pdf
+S5/Langues_etrangeres_3/TDs/LngEtr3 - Week 2.pdf
+S5/Langues_etrangeres_3/TDs/LngEtr3 - Week 3.pdf
+S5/Langues_etrangeres_3/TDs/LngEtr3 - Week 4.pdf
+S5/Langues_etrangeres_3/TDs/LngEtr3 - Week 5.pdf
+S5/Mecanique_quantique_2/Cours/Cours (2025 - 2026).pdf
+S5/Mecanique_quantique_2/TDs/TD2 - Corrigé.pdf
+S5/Mecanique_quantique_2/TDs/TD2 - Énoncé.pdf
+S5/Mecanique_quantique_2/TDs/TD3 - Énoncé.pdf
+S5/Mecanique_quantique_2/TDs/TD4 - Énoncé.pdf
+S6/Automatique/Cours/polycopié (partie 1).pdf
+S6/Automatique/Cours/polycopié (partie 1)_compressed.pdf
+S6/Automatique/Cours/polycopié (partie 2).pdf
+S6/Automatique/Cours/polycopié (partie 2)_compressed.pdf
+S6/Automatique/TDs/td1 - annexe 1.pdf
+S6/Automatique/TDs/td1 - corrigé (classe).pdf
+S6/Automatique/TDs/td2 - corrigé (incomplet).pdf
+S6/Automatique/TDs/td2 - rappel.pdf
+S6/Automatique/TDs/td3 - corrigé.pdf
+S6/Automatique/TDs/td4 - corrigé.pdf
+S6/Automatique/TDs/td5 - corrigé.pdf
+S6/Chaine_d_acquisition/Cours/chapt 1 (suite).pdf
+S6/Chaine_d_acquisition/TDs/td1 - corrigé (classe).pdf
+S6/Chaine_d_acquisition/TDs/td1 - énoncé.pdf
+S6/Chaine_d_acquisition/TDs/td2 - corrigé (incomplet) (classe).pdf
+S6/Chaine_d_acquisition/TDs/td2 - énoncé.pdf
+S6/Electronique_de_communication/TDs/td1 - corrigé.pdf
+S6/Electronique_de_communication/TDs/td1 - énoncé.pdf
+S6/Electronique_de_communication/TDs/td2 - corrigé.pdf
+S6/Electronique_de_communication/TDs/td2 - énoncé.pdf
+S6/Langues_etrangeres_4/TDs/lngetr4 - unit 1.pdf
+S6/Systemes_microprocesseur_microcontroleur/TDs/td1 - corrigé.pdf
+S6/Traitement_du_signal/Cours/polycopié.pdf
+S6/Traitement_du_signal/Cours/polycopié_compressed.pdf
+S6/Traitement_du_signal/TDs/td1 - corrigé.pdf
+
+ERRORS:
+S6/Traitement_du_signal/Google_PDFs/Cours-TS-UE-STI-2023-2024-distribue.pdf
