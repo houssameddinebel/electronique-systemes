@@ -223,7 +223,10 @@ function doneView(){
   });
   view.innerHTML = `<h2 class="section-title">✓ Travail finis (${items.length})</h2>` +
     (items.length ?
-      `<p><button class="clear-btn" id="clearDone">Tout effacer</button></p>` +
+      `<p><button class="clear-btn" id="saveDone">💾 Sauvegarder</button> ` +
+      `<button class="clear-btn" id="loadDone">📂 Restaurer</button> ` +
+      `<input type="file" id="loadFile" accept=".json" style="display:none"> ` +
+      `<button class="clear-btn" id="clearDone">Tout effacer</button></p>` +
       Object.keys(groups).sort().map(k =>
         `<div class="cat"><div class="cat-head"><span class="badge tps">✓</span>` +
         `<span>${disp(k)}</span></div>` +
@@ -236,6 +239,31 @@ function doneView(){
     if (confirm("Effacer tout le travail marqué fini ?")) {
       DONE = {}; saveDone(); doneView();
     }
+  };
+  const sv = document.getElementById("saveDone");
+  if (sv) sv.onclick = () => {
+    const blob = new Blob([JSON.stringify(DONE)], {type: "application/json"});
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = "travail-finis.json";
+    a.click();
+    setTimeout(() => URL.revokeObjectURL(a.href), 5000);
+  };
+  const ld = document.getElementById("loadDone");
+  const lf = document.getElementById("loadFile");
+  if (ld && lf) ld.onclick = () => lf.click();
+  if (lf) lf.onchange = () => {
+    const f = lf.files[0];
+    if (!f) return;
+    const r = new FileReader();
+    r.onload = () => {
+      try {
+        const data = JSON.parse(r.result);
+        DONE = (data && typeof data === "object") ? data : {};
+        saveDone(); doneView();
+      } catch(e){ alert("Fichier invalide."); }
+    };
+    r.readAsText(f);
   };
 }
 
